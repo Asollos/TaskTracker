@@ -75,6 +75,7 @@ Notes
 -To reset your tasks, simply delete the .txt files and run the program again.
 -License
 -This program is open-source and available for personal or educational use. Modify and distribute as needed. Contributions are welcome!
+https://github.com/Asollos/TaskTracker
 
 
 
