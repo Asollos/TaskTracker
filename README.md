@@ -22,7 +22,7 @@ Persistent Storage
   
 How to Use
   -Run the script:
-    python task_tracker.py
+    python TaskTracker.py
     
 Choose an option from the menu:
 
